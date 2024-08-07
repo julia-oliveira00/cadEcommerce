@@ -9,7 +9,6 @@
 
 ![Como funciona os cadastros de produto no site](gifCad.gif)
 
-
 ### Produtos
 ``` php
 <?php
