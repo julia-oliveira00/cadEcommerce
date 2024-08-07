@@ -1,13 +1,14 @@
 <h1 align="center">Cadastro de Ecommerce</h1>
 <p align="center">Projeto referente a atividade feita em sala aula de implementação de banco de dados em um código html usando phpmyadmim para criação de um site Ecommerce que pode cadastrar informações no banco de dados.</p>
 <p align="center"><code>Usando de base um site pré desenvolvido pelo professor, criamos em sala mais três páginas no mesmo modelo para cadastrar produtos,</code> <code>marca e categoria.</code></p>
-<p align="center">Com ajuda de [Marina Dias](https://github.com/)
-</p>
+
+* Com ajuda de [Marina Dias](https://github.com/MarshyyUWU) <3
 
 
 ## Funcionalidades
 
 ![Como funciona os cadastros de produto no site](gifCad.gif)
+
 
 ### Produtos
 ``` php
